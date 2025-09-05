@@ -7,12 +7,12 @@ Created in collaboration with [baconspoon](github.com/baconspoon85) and [apfel](
 
 ## Row Stagger
 
-<img width="1017" height="431" alt="rowStag" src="https://github.com/user-attachments/assets/66ea35ca-1071-457c-b143-8dfe0f6a0f50" />
+<img width="1017" height="426" alt="rowStag" src="https://github.com/user-attachments/assets/ed8a43b4-af35-4f1a-84c0-e9e388f88f49" />
 
 ## Ortholinear
 
-<img width="1017" height="430" alt="ortho" src="https://github.com/user-attachments/assets/b95a49a8-da3c-462c-a6e2-ff1df2981cc0" />
+<img width="1013" height="426" alt="ortho" src="https://github.com/user-attachments/assets/e4556c17-deac-4e97-bbb7-0cb1ecf2d047" />
 
 ## Alpha Stagger
 
-<img width="1020" height="431" alt="alphaStag" src="https://github.com/user-attachments/assets/9bd812e8-a07f-4142-ab0d-10000c3da504" />
+<img width="1017" height="428" alt="alphaStag" src="https://github.com/user-attachments/assets/732f9ce4-6250-414c-847a-fee317734e46" />
