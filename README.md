@@ -1,4 +1,4 @@
-# megacorp-main
+# MEGACORP-main
 For all MEGACORP-related projects.
 
 Created in collaboration with baconspoon and apfel.
