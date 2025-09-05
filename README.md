@@ -1,7 +1,7 @@
 # MEGACORP-main
 For all MEGACORP-related projects.
 
-Created in collaboration with baconspoon and apfel.
+Created in collaboration with [baconspoon](github.com/baconspoon85) and [apfel](https://github.com/kilipan).
 
 ![20250903_172107](https://github.com/user-attachments/assets/4832cfbb-564c-412e-afb5-439c7d053bc1)
 
